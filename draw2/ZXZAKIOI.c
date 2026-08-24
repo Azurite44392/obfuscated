@@ -1,0 +1,2 @@
+_=0;k;main(){while(_<719){for(k=0;"8$#D#$#$K%(#3#'C:XCMOLa9O$8<N3@P=9OLEPEM08O:(NE8\\N=8O-9N)NYM-NM8N"
+"9P9P=XA<8/E8X,NE4N3X9PN1TML8VMTM\\0#O$^F0#OTMT)N1Y#Y#O$/"[_/6]-35>>_++%6&1;k++);putchar(k["_ /\\\n|"]);}}
