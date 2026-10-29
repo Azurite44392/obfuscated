@@ -1,0 +1,7 @@
+Compile:
+gcc hloi.c -o hloi.exe
+
+Keep the exe and prog file at the directory!!!
+
+Run:
+hloi.exe < hloi.c
